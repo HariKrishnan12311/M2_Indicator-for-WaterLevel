@@ -52,3 +52,6 @@ The system controled by atmega328 which act ass brain.
 | ------ | ------ | ------ |
 | LLR1 | if low level switch open before uplevel the water won't flow | Implemented |
 | LLR2 | the system works without errors |Implemented
+
+
+![casey-schackow-kvovQCb1gfY-unsplash](https://user-images.githubusercontent.com/101939465/164466437-5ee1a874-3012-444f-add0-356c04570940.jpg)
