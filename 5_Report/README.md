@@ -1,8 +1,7 @@
 # Requirements
   ## Introduction
 
-Basically  automation  in  systems  would  help  reduce  wastage  of  resources  in  various  ways,  one  such  way  for  the 
-prevention  of  wastage  of  water  resource  to  control  the  water  tanks  from  overflow.  In  this  automated  world,  the 
+ In  this  automated  world,  the 
 handling  of  any  kind  of  devices  with  comfort  is  made  to  be  the  easiest  factor  everywhere.  Considering  this  aspect 
 of  comfort  zones  and  the  prevention  of  wastage  of  resources,  a  design  of  an  automated  overflow  control  circuit 
 unit  was  proposed.  The  proposal  was  designed  on  the  perspective  of  controlling  the  flow  of  water 
@@ -63,7 +62,8 @@ The system controled by atmega328 which act ass brain.
 | ![str1](https://user-images.githubusercontent.com/94284577/144245180-94a8565c-a7e0-46ed-8f23-4c329291ebe1.png) | ![str2](https://user-images.githubusercontent.com/94284577/144245192-79c365ba-cd1e-447e-b4a4-f0d112614875.png) |
  ### Circuit diagram
 
-![Screenshot from 2021-12-01 18-57-15](https://user-images.githubusercontent.com/94284577/144245354-93c4f027-d581-4b74-880b-25d1ef2abc10.png)
+![Screenshot (92)](https://user-images.githubusercontent.com/101939465/164605126-5a1f63e5-6c83-43b0-8c3a-b4ac99e6e265.png)
+
 
  ## Test Plan and Output
 
