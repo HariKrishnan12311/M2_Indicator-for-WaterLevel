@@ -35,6 +35,7 @@ Code Grade
 Codacy
 
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/78c9358363d94466981338649cffdc73)](https://app.codacy.com/gh/HariKrishnan12311/Embedded_WaterTank_Overflow_Indicator?utm_source=github.com&utm_medium=referral&utm_content=Nishanth-K1213/M2-Embedded_WaterTank_Overflow_Indicator&utm_campaign=Badge_Grade_Settings)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/78c9358363d94466981338649cffdc73)](https://app.codacy.com/gh/HariKrishnan12311/M2_Indicator-to-check-WaterLevel-in-tanks?utm_source=github.com&utm_medium=referral&utm_content=HariKrishnan12311/M2_Indicator-to-check-aterLevel-in-tanks&utm_campaign=Badge_Grade_Settings)
+
 
 
