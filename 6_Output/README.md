@@ -1,12 +1,15 @@
 # TEST 1
 The water will flow because the level of water is low and so that the both switches are opened.
-![Screenshot from 2021-12-01 19-28-59](https://user-images.githubusercontent.com/94284577/144248841-0af6d946-4338-4e6e-a8e6-d92205c839e3.png)
+![Screenshot (93)](https://user-images.githubusercontent.com/101939465/164611286-b143fd68-e2a9-4ac2-86bb-89998504b8ce.png)
+
 # TEST 2
 The water will flow because the level of water is not reached max.  
-![Screenshot from 2021-12-01 19-29-27](https://user-images.githubusercontent.com/94284577/144248849-f77682ca-1c64-446c-8a6c-977fe9b1efa3.png)
+![Screenshot (94)](https://user-images.githubusercontent.com/101939465/164611320-2d0888d9-571c-4cec-913e-9d94740a6dd2.png)
+
 # TEST 3
 The water will not flow because the level of water is reached max.
-![Screenshot from 2021-12-01 19-29-43](https://user-images.githubusercontent.com/94284577/144248852-27760592-1c5d-4156-9c38-b7942f69f554.png)
+![Screenshot (95)](https://user-images.githubusercontent.com/101939465/164611359-b3cc1bb7-cdf4-4d54-800a-9700a34f6915.png)
+
 # TEST 4
 It is wrong test case because while the up is closed the down switch is also closed but here the down is opened so the water will not flow.
-![Screenshot from 2021-12-01 19-30-08](https://user-images.githubusercontent.com/94284577/144248862-c5ae5ad3-fa04-4411-8dfd-1634d3e55078.png)
+![Screenshot (96)](https://user-images.githubusercontent.com/101939465/164611391-97d751b0-4346-4c14-89e5-e9fea0008558.png)
