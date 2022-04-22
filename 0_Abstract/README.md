@@ -18,3 +18,6 @@ A water level indicator is a system that relays information back to a control pa
 
 ![Screenshot (97)](https://user-images.githubusercontent.com/101939465/164612680-f30eaf59-4106-465c-9f77-4bda19b1d4cc.png)
 
+
+ The total amount of water available on Earth has been estimated at 1.4 billion cubic kilometers, enough to cover the planet with a layer of about 3 km. About 95% of the Earth's water is in the oceans, which is unfit for human consumption. About 4% is locked in the polar ice caps, and the rest 1% constitutes all fresh water found in rivers, streams and lakes which is suitable for our consumption. A study estimated that a person in India consumes on an average of 140 litres per day. This consumption would rise by 40% by the year 2025. This signifies the need to preserve our fresh water resources.
+
