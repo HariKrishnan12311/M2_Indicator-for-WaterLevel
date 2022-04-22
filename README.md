@@ -31,3 +31,10 @@ Code Grade
 
 ![Code Grade](https://api.codiga.io/project/32980/status/svg)
 
+
+Codacy
+
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/78c9358363d94466981338649cffdc73)](https://app.codacy.com/gh/HariKrishnan12311/Embedded_WaterTank_Overflow_Indicator?utm_source=github.com&utm_medium=referral&utm_content=Nishanth-K1213/M2-Embedded_WaterTank_Overflow_Indicator&utm_campaign=Badge_Grade_Settings)
+
+
